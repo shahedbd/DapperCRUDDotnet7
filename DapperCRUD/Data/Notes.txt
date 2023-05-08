@@ -1,0 +1,5 @@
+﻿
+
+dotnet add package Microsoft.Data.SqlClient --version 5.1.1
+dotnet add package Dapper.Extensions.NetCore --version 4.2.2
+
